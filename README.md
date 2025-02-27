@@ -2,7 +2,7 @@
 
 HR Analytics Dashboard is created using Power BI. The dashboard provides insights into employee demographics, attrition rates, income distribution, and performance across various departments. It helps HR departments make data-driven decisions to improve employee retention and organizational efficiency.This interactive dashboards offer a user-friendly way to analyze HR data, facilitating well-informed decisions. Importantly, they seamlessly integrate with popular HR systems, providing a cohesive experience in managing human resources.
 
-Features
+Features :-
 
 1. Total Employees Overview
 2. Attrition Count & Attrition Rate
@@ -13,7 +13,7 @@ Features
 7. Monthly Income by Job Role
 8. Performance Rating by Department
 
-Visualizations
+Visualizations :-
 
 1. Total Employees, Attrition Count, Attrition Rate, Active Employees, Average Age: Provides a high-level summary of key HR metrics.
 
@@ -27,14 +27,14 @@ Visualizations
 
 6. Performance Rating by Department: Pie chart showing the sum of performance ratings across departments (R&D, Sales, HR).
 
-Tools Used 
+Tools Used :-
 
 1. Power BI
 2. Power Query
 3. Dax Query
 4. Data modeling
 
-Insights 
+Insights :-
 
 1. The majority of employees come from Life Sciences backgrounds.
 2. The Sales Department has the highest attrition rate.
